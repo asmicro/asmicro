@@ -18,7 +18,7 @@
  :woman_technologist:<b>About me:</b><br>
 - 🔭 I’m currently working on popular tech stacks for web development that includes Javascript based MERN stack (MongoDB,Express,React and Node.js) and the Python-based Django stack.<br>
 - 🌱 I’m currently learning Data Structures and Algorithms.<br>
-- 📫 Email: sdivyanshu129@gmail.com
+- 📫 Email: codeasm86@gmail.com.<br>
 - 👯 I’m looking to collaborate on projects related to tech-stack i am working on.<br>
 - 😄 Pronouns: She/Her<br>
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
