@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- ## 👨🏻‍💻 &nbsp;About Me
+ 👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @asmicro aka Anushka Mishra
 - 👀 I’m interested in new techonlogies
