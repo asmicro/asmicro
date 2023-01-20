@@ -19,7 +19,6 @@
 - 🔭 I’m currently working on popular tech stacks for web development that includes Javascript based MERN stack (MongoDB,Express,React and Node.js) and the Python-based Django stack.<br>
 - 🌱 I’m currently learning Data Structures and Algorithms.<br>
 - 👯 I’m looking to collaborate on projects related to tech-stack i am working on.<br>
-- 📫 Reach me at : codeasm86@gmail.com<br>
 - 😄 Pronouns: She/Her<br>
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
 - <div>
@@ -41,6 +40,7 @@
 </div>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+  [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codeasm86@gmail.com)
 
 [![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmicro)](https://github.com/asmicro/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=asmicro&theme=cobalt)](https://github.com/asmicro)
